@@ -4,7 +4,7 @@ Bu proje, `/site-yap` komutu ile profesyonel, benzersiz web siteleri oluşturur.
 
 ## Her Zaman İlk Yap
 
-- **`frontend-design` skill'ini çağır** — frontend kodu yazmadan önce, her seferinde, istisnasız.
+- **`website` skill'ini çağır** — frontend kodu yazmadan önce, her seferinde, istisnasız.
 - CLAUDE.md'yi oku ve tüm kurallara uy.
 
 ---
