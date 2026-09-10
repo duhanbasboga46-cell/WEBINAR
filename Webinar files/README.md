@@ -1,8 +1,8 @@
-# DOA+ Starter Kit
+# WWILL+ Starter Kit
 
 Claude Code ile dijital is kurma paketi. Otomasyon, SaaS ve web gelistirme projelerini hizla hayata gecirmek icin hazir sablonlar, rehberler ve is fikirleri.
 
-Bu kit, DOA+ toplulugunun uyeleri icin hazirlanmistir. Icerideki her sey pratikte test edilmis ve gercek projelerde kullanilmistir.
+Bu kit, WWILL+ toplulugunun uyeleri icin hazirlanmistir. Icerideki her sey pratikte test edilmis ve gercek projelerde kullanilmistir.
 
 ---
 
@@ -89,29 +89,25 @@ Bu dosya, Claude Code'a projenin ne oldugunu, hangi teknolojileri kullandigini v
 1. **Fikir sec** — `ideas/50-saas-fikri.md` dosyasina bak, sana uygun bir fikir sec
 2. **Fiyatini belirle** — `ideas/fiyatlandirma-rehberi.md` ile fiyatlandirma stratejini olustur
 3. **Projeyi baslat** — Uygun CLAUDE.md config'ini proje kokune kopyala
-4. **Skill'leri kullan** — `/saas-iskelet` ile projeyi iskeletle, `/teklif` ile museteriye teklif hazirla
+4. **Skill'leri kullan** — `/saas-iskelet` ile projeyi iskeletle, `/teklif` ile musteriye teklif hazirla
 5. **Rehberleri oku** — Takildgin yerde `guides/` klasorundeki rehberlere bas vur
 
 ---
 
-## DOA+ Toplulugu
+## WWILL+ Toplulugu
 
-Bu kit, DOA+ toplulugunun bir parcasidir. Toplulukta:
+Bu kit, WWILL+ toplulugunun bir parcasidir. Toplulukta:
 
 - Haftalik canli oturumlar
 - Diger uyelerin projeleri ve deneyimleri
 - Soru-cevap ve destek
 - Yeni skill'ler ve guncellemeler
 
-Topluluga katil: **[skool.com/doa](https://www.skool.com/doa)**
-
 ---
 
-## DOA+ Hizlandirma Programi
+## WWILL+ Hizlandirma Programi
 
-Daha hizli ilerlemek istiyorsan, DOA+ Hizlandirma programi birebir mentorluk, detayli egitim videolari ve ileri seviye iceriklere erisim saglar.
-
-Detaylar: **[otomasyonkur.co](https://otomasyonkur.co)**
+Daha hizli ilerlemek istiyorsan, WWILL+ Hizlandirma programi birebir mentorluk, detayli egitim videolari ve ileri seviye iceriklere erisim saglar.
 
 ---
 
